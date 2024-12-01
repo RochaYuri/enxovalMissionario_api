@@ -1,0 +1,14 @@
+[
+  {
+    "name": "YURI DE CARVALHO ROCHA",
+    "username": "rochayuri",
+    "password": "Lkjd7f4z",
+    "roles": ["admin", "missionary"]
+  },
+  {
+    "name": "ADAN DE CARVALHO ROCHA",
+    "username": "adancrocha",
+    "password": "12345",
+    "roles": ["missionary"]
+  }
+]

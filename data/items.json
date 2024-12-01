@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 1,
+    "nome": "Terno",
+    "responsible": [
+    ]
+  },
+  {
+    "id": 2,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 10,
+    "nome": "Camisa branca - Tam X",
+    "responsible": []
+  },
+  {
+    "id": 3,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 6,
+    "nome": "Gravata",
+    "responsible": []
+  },
+  {
+    "id": 4,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 5,
+    "nome": "Calça Social - Tam X",
+    "responsible": []
+  },
+  {
+    "id": 5,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Sapato",
+    "responsible": []
+  },
+  {
+    "id": 6,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 10,
+    "nome": "Garment (conjunto) - Tam X",
+    "responsible": []
+  },
+  {
+    "id": 7,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 12,
+    "nome": "Meia",
+    "responsible": []
+  },
+  {
+    "id": 8,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 4,
+    "nome": "Meia Térmica",
+    "responsible": []
+  },
+  {
+    "id": 9,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Cinto",
+    "responsible": []
+  },
+  {
+    "id": 10,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Suéter",
+    "responsible": []
+  },
+  {
+    "id": 11,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 1,
+    "nome": "Casaco Pesado com Forro Removível",
+    "responsible": []
+  },
+  {
+    "id": 12,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 1,
+    "nome": "Garment Térmico (conjunto) - Tam X",
+    "responsible": []
+  },
+  {
+    "id": 13,
+    "category": {
+      "id": 2,
+      "name": "higiene"
+    },
+    "quantity": 1,
+    "nome": "Barbeador",
+    "responsible": []
+  },
+  {
+    "id": 14,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Kit Graxa",
+    "responsible": []
+  },
+  {
+    "id": 15,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Kit costura",
+    "responsible": []
+  },
+  {
+    "id": 16,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Lanterna",
+    "responsible": []
+  },
+  {
+    "id": 17,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Guarda-chuva",
+    "responsible": []
+  },
+  {
+    "id": 18,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Câmera Fotográfica",
+    "responsible": []
+  },
+  {
+    "id": 19,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Bolsa Tiracolo",
+    "responsible": []
+  }
+]
