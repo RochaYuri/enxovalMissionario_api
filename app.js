@@ -2,10 +2,12 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const fs = require("fs");
 const app = express();
+const cors = require('cors');
 const port = 5000;
 const filePath = "./data/items.json";
 
 app.use(bodyParser.json());
+app.use(cors());
 
 // Função para atualizar o item
 const updateItem = (items, itemId, responsibleObject) => {
