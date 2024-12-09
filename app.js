@@ -41,7 +41,7 @@ app.get("/items", (req, res) => {
 
 // Endpoint para atualizar os itens
 app.post("/items", (req, res) => {
-  const { itemId, responsibleObject } = req.body;
+  const { updates } = req.body;
 
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
@@ -50,7 +50,11 @@ app.post("/items", (req, res) => {
     }
     let items = JSON.parse(data);
 
-    items = updateItem(items, itemId, responsibleObject);
+    // Processar cada atualização no array
+    updates.forEach(update => {
+      const { itemId, responsibleObject } = update;
+      items = updateItem(items, itemId, responsibleObject);
+    });
 
     fs.writeFile(filePath, JSON.stringify(items, null, 2), (err) => {
       if (err) {
@@ -61,6 +65,7 @@ app.post("/items", (req, res) => {
     });
   });
 });
+
 
 app.listen(port, () => {
 });
