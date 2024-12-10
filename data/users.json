@@ -10,5 +10,11 @@
     "username": "adancrocha",
     "password": "12345",
     "roles": ["missionary"]
+  },
+  {
+    "name": "ELIZIR ROGÉRIO ROCHA",
+    "username": "elizirogeriorocha",
+    "password": "12345",
+    "roles": ["admin", "missionary"]
   }
 ]

@@ -4,7 +4,8 @@ const fs = require("fs");
 const app = express();
 const cors = require('cors');
 const port = 5000;
-const filePath = "./data/items.json";
+const filePathItems = "./data/items.json";
+const filePathUsers = "./data/users.json";
 
 app.use(bodyParser.json());
 app.use(cors());
@@ -30,7 +31,18 @@ const updateItem = (items, itemId, responsibleObject) => {
 
 // Endpoint para obter os itens
 app.get("/items", (req, res) => {
-  fs.readFile(filePath, "utf8", (err, data) => {
+  fs.readFile(filePathItems, "utf8", (err, data) => {
+    if (err) {
+      res.status(500).send("Error reading file");
+      return;
+    }
+    res.json(JSON.parse(data));
+  });
+});
+
+// Endpoint para obter os usuários
+app.get("/users", (req, res) => {
+  fs.readFile(filePathUsers, "utf8", (err, data) => {
     if (err) {
       res.status(500).send("Error reading file");
       return;
@@ -43,7 +55,7 @@ app.get("/items", (req, res) => {
 app.post("/items", (req, res) => {
   const { updates } = req.body;
 
-  fs.readFile(filePath, "utf8", (err, data) => {
+  fs.readFile(filePathItems, "utf8", (err, data) => {
     if (err) {
       res.status(500).send("Error reading file");
       return;
@@ -56,7 +68,7 @@ app.post("/items", (req, res) => {
       items = updateItem(items, itemId, responsibleObject);
     });
 
-    fs.writeFile(filePath, JSON.stringify(items, null, 2), (err) => {
+    fs.writeFile(filePathItems, JSON.stringify(items, null, 2), (err) => {
       if (err) {
         res.status(500).send("Error writing file");
         return;

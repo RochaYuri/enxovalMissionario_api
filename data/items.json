@@ -16,8 +16,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 10,
-    "nome": "Camisa branca - Tam X",
+    "quantity": 5,
+    "nome": "Camisa branca - Tam M",
     "responsible": []
   },
   {
@@ -37,7 +37,7 @@
       "name": "roupas"
     },
     "quantity": 5,
-    "nome": "Calça Social - Tam X",
+    "nome": "Calça Social - Nº 44",
     "responsible": []
   },
   {
@@ -57,7 +57,7 @@
       "name": "roupas"
     },
     "quantity": 10,
-    "nome": "Garment (conjunto) - Tam X",
+    "nome": "Garment (conjunto) - Tam P",
     "responsible": []
   },
   {
@@ -67,7 +67,7 @@
       "name": "roupas"
     },
     "quantity": 12,
-    "nome": "Meia",
+    "nome": "Meia (Cano alto)",
     "responsible": []
   },
   {
@@ -117,7 +117,7 @@
       "name": "roupas"
     },
     "quantity": 1,
-    "nome": "Garment Térmico (conjunto) - Tam X",
+    "nome": "Garment Térmico (conjunto) - Tam M",
     "responsible": []
   },
   {
