@@ -7,8 +7,7 @@
     },
     "quantity": 1,
     "nome": "Terno",
-    "responsible": [
-    ]
+    "responsible": []
   },
   {
     "id": 2,
@@ -16,9 +15,25 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 5,
-    "nome": "Camisa branca - Tam M",
-    "responsible": []
+    "quantity": 2,
+    "nome": "Camisa branca - Tam 3 (manga longa)",
+    "responsible": [
+      {
+        "name": "teste",
+        "contact": "(15) 974039566",
+        "quantity": -1
+      },
+      {
+        "name": "Inayah Simone Rocha ",
+        "contact": "(11) 987448339",
+        "quantity": 3
+      },
+      {
+        "name": "Inayah Simone Rocha ",
+        "contact": "(11) 987448339",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 3,
@@ -26,9 +41,15 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 6,
+    "quantity": 4,
     "nome": "Gravata",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Yuri de Carvalho Rocha",
+        "contact": "(15) 998323267",
+        "quantity": 2
+      }
+    ]
   },
   {
     "id": 4,
@@ -56,9 +77,30 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 10,
+    "quantity": 0,
     "nome": "Garment (conjunto) - Tam P",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Yuri de Carvalho Rocha",
+        "contact": "(15) 998323267",
+        "quantity": 1
+      },
+      {
+        "name": "Yuri de Carvalho Rocha",
+        "contact": "(15) 998323267",
+        "quantity": 1
+      },
+      {
+        "name": "Thatiane Tota",
+        "contact": "(15) 996831702",
+        "quantity": 2
+      },
+      {
+        "name": "Inayah Simone Rocha ",
+        "contact": "(11) 987448339",
+        "quantity": 6
+      }
+    ]
   },
   {
     "id": 7,
@@ -106,9 +148,15 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Casaco Pesado com Forro Removível",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "ELIZIR FERNANDO ROCHA",
+        "contact": "(15) 996148138",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 12,
@@ -116,9 +164,15 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 1,
+    "quantity": 4,
     "nome": "Garment Térmico (conjunto) - Tam M",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "ELIZIR FERNANDO ROCHA",
+        "contact": "(15) 996148138",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 13,
@@ -126,9 +180,15 @@
       "id": 2,
       "name": "higiene"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Barbeador",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Elizir Fernando Rocha",
+        "contact": "(15) 996148138",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 14,
@@ -156,9 +216,15 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Lanterna",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Yuri de Carvalho Rocha",
+        "contact": "(15) 998323267",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 17,
@@ -186,8 +252,144 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Bolsa Tiracolo",
+    "responsible": [
+      {
+        "name": "Adan de Carvalho Rocha",
+        "contact": "(15) 996443777",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Luva",
+    "responsible": []
+  },
+  {
+    "id": 21,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Capa de chuva",
+    "responsible": []
+  },
+  {
+    "id": 22,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Gorro",
+    "responsible": []
+  },
+  {
+    "id": 23,
+    "category": {
+      "id": 1,
+      "name": "roupas"
+    },
+    "quantity": 2,
+    "nome": "Cachecol",
+    "responsible": []
+  },
+  {
+    "id": 24,
+    "category": {
+      "id": 4,
+      "name": "cama e banho"
+    },
+    "quantity": 1,
+    "nome": "Toalha de banho",
+    "responsible": []
+  },
+  {
+    "id": 25,
+    "category": {
+      "id": 4,
+      "name": "cama e banho"
+    },
+    "quantity": 2,
+    "nome": "Lençol de cama",
+    "responsible": []
+  },
+  {
+    "id": 26,
+    "category": {
+      "id": 4,
+      "name": "cama e banho"
+    },
+    "quantity": 2,
+    "nome": "Fronha",
+    "responsible": []
+  },
+  {
+    "id": 27,
+    "category": {
+      "id": 5,
+      "name": "escrituras"
+    },
+    "quantity": 1,
+    "nome": "Quádrupla",
+    "responsible": []
+  },
+  {
+    "id": 28,
+    "category": {
+      "id": 3,
+      "name": "outros"
+    },
+    "quantity": 1,
+    "nome": "Mala (1 grande e 1 média)",
+    "responsible": []
+  },
+  {
+    "id": 29,
+    "category": {
+      "id": 5,
+      "name": "escrituras"
+    },
+    "quantity": 1,
+    "nome": "Pregar Meu Evangelho",
+    "responsible": []
+  },
+  {
+    "id": 30,
+    "category": {
+      "id": 5,
+      "name": "escrituras"
+    },
+    "quantity": 1,
+    "nome": "Kit estudo",
+    "responsible": []
+  },
+  {
+    "id": 31,
+    "category": {
+      "id": 5,
+      "name": "escrituras"
+    },
+    "quantity": 1,
+    "nome": "Diário",
+    "responsible": []
+  },
+  {
+    "id": 32,
+    "category": {
+      "id": 1,
+      "name": "roupa"
+    },
+    "quantity": 1,
+    "nome": "Roupa batismal (roupa social branca)",
     "responsible": []
   }
 ]
