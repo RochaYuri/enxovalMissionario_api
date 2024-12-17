@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "roupa"
+  },
+  {
+    "id": 2,
+    "name": "higiene"
+  },
+  {
+    "id": 3,
+    "name": "outros"
+  },
+  {
+    "id": 4,
+    "name": "cama e banho"
+  },
+  {
+    "id": 5,
+    "name": "escrituras"
+  }
+]

@@ -3,18 +3,26 @@
     "name": "YURI DE CARVALHO ROCHA",
     "username": "rochayuri",
     "password": "Lkjd7f4z",
-    "roles": ["admin", "missionary"]
+    "roles": [
+      "admin",
+      "missionary"
+    ]
   },
   {
     "name": "ADAN DE CARVALHO ROCHA",
     "username": "adancrocha",
     "password": "12345",
-    "roles": ["missionary"]
+    "roles": [
+      "missionary"
+    ]
   },
   {
     "name": "ELIZIR ROGÉRIO ROCHA",
     "username": "elizirogeriorocha",
     "password": "12345",
-    "roles": ["admin", "missionary"]
+    "roles": [
+      "admin",
+      "missionary"
+    ]
   }
 ]
