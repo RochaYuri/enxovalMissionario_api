@@ -15,14 +15,9 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "quantity": 1,
     "nome": "Camisa branca - Tam 3 (manga longa)",
     "responsible": [
-      {
-        "name": "teste",
-        "contact": "(15) 974039566",
-        "quantity": -1
-      },
       {
         "name": "Inayah Simone Rocha ",
         "contact": "(11) 987448339",
@@ -242,9 +237,15 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Câmera Fotográfica",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Adan de Carvalho Rocha",
+        "contact": "(15) 996443777",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 19,
@@ -388,8 +389,14 @@
       "id": 1,
       "name": "roupa"
     },
-    "quantity": 1,
+    "quantity": 0,
     "nome": "Roupa batismal (roupa social branca)",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Helena Glozer",
+        "contact": "(15) 983123550",
+        "quantity": 1
+      }
+    ]
   }
 ]
