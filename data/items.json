@@ -5,7 +5,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Terno",
     "responsible": []
   },
@@ -15,7 +16,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 10,
     "nome": "Camisa branca - Tam 3 (manga longa)",
     "responsible": [
       {
@@ -27,6 +29,11 @@
         "name": "Inayah Simone Rocha ",
         "contact": "(11) 987448339",
         "quantity": 1
+      },
+      {
+        "name": "Marco Aurélio Bueno",
+        "contact": "(11) 983803291",
+        "quantity": 5
       }
     ]
   },
@@ -36,7 +43,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 4,
+    "remainQuantity": 4,
+    "totalQuantity": 6,
     "nome": "Gravata",
     "responsible": [
       {
@@ -52,7 +60,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 5,
+    "remainQuantity": 5,
+    "totalQuantity": 5,
     "nome": "Calça Social - Nº 44",
     "responsible": []
   },
@@ -62,7 +71,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Sapato",
     "responsible": []
   },
@@ -72,7 +82,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 8,
     "nome": "Garment (conjunto) - Tam P",
     "responsible": [
       {
@@ -103,9 +114,16 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 12,
+    "remainQuantity": 0,
+    "totalQuantity": 12,
     "nome": "Meia (Cano alto)",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Verônica ",
+        "contact": "(15) 981739739",
+        "quantity": 12
+      }
+    ]
   },
   {
     "id": 8,
@@ -113,7 +131,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 4,
+    "remainQuantity": 4,
+    "totalQuantity": 4,
     "nome": "Meia Térmica",
     "responsible": []
   },
@@ -123,7 +142,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Cinto",
     "responsible": []
   },
@@ -133,7 +153,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Suéter",
     "responsible": []
   },
@@ -143,7 +164,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Casaco Pesado com Forro Removível",
     "responsible": [
       {
@@ -159,7 +181,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 4,
+    "remainQuantity": 4,
+    "totalQuantity": 5,
     "nome": "Garment Térmico (conjunto) - Tam M",
     "responsible": [
       {
@@ -175,7 +198,8 @@
       "id": 2,
       "name": "higiene"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Barbeador",
     "responsible": [
       {
@@ -191,7 +215,8 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Kit Graxa",
     "responsible": []
   },
@@ -201,7 +226,8 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Kit costura",
     "responsible": [
       {
@@ -217,7 +243,8 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Lanterna",
     "responsible": [
       {
@@ -233,8 +260,9 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
     "nome": "Guarda-chuva",
+    "totalQuantity": 1,
     "responsible": []
   },
   {
@@ -243,8 +271,9 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
     "nome": "Câmera Fotográfica",
+    "totalQuantity": 1,
     "responsible": [
       {
         "name": "Adan de Carvalho Rocha",
@@ -259,7 +288,8 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Bolsa Tiracolo",
     "responsible": [
       {
@@ -275,7 +305,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Luva",
     "responsible": []
   },
@@ -285,7 +316,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Capa de chuva",
     "responsible": []
   },
@@ -295,7 +327,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Gorro",
     "responsible": []
   },
@@ -305,7 +338,8 @@
       "id": 1,
       "name": "roupas"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Cachecol",
     "responsible": []
   },
@@ -315,7 +349,8 @@
       "id": 4,
       "name": "cama e banho"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Toalha de banho",
     "responsible": []
   },
@@ -325,7 +360,8 @@
       "id": 4,
       "name": "cama e banho"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Lençol de cama",
     "responsible": []
   },
@@ -335,7 +371,8 @@
       "id": 4,
       "name": "cama e banho"
     },
-    "quantity": 2,
+    "remainQuantity": 2,
+    "totalQuantity": 2,
     "nome": "Fronha",
     "responsible": []
   },
@@ -345,9 +382,16 @@
       "id": 5,
       "name": "escrituras"
     },
-    "quantity": 1,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Quádrupla",
-    "responsible": []
+    "responsible": [
+      {
+        "name": "Fernando Rocha",
+        "contact": "(15) 996148138",
+        "quantity": 1
+      }
+    ]
   },
   {
     "id": 28,
@@ -355,7 +399,8 @@
       "id": 3,
       "name": "outros"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Mala (1 grande e 1 média)",
     "responsible": []
   },
@@ -365,7 +410,8 @@
       "id": 5,
       "name": "escrituras"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Pregar Meu Evangelho",
     "responsible": []
   },
@@ -375,7 +421,8 @@
       "id": 5,
       "name": "escrituras"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Kit estudo",
     "responsible": []
   },
@@ -385,7 +432,8 @@
       "id": 5,
       "name": "escrituras"
     },
-    "quantity": 1,
+    "remainQuantity": 1,
+    "totalQuantity": 1,
     "nome": "Diário",
     "responsible": []
   },
@@ -395,7 +443,8 @@
       "id": 1,
       "name": "roupa"
     },
-    "quantity": 0,
+    "remainQuantity": 0,
+    "totalQuantity": 1,
     "nome": "Roupa batismal (roupa social branca)",
     "responsible": [
       {

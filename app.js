@@ -42,20 +42,26 @@ const nextCategoryID = (categories) => {
 const updateItem = (items, itemId, responsibleObject) => {
   return items.map((item) => {
     if (item.id === itemId) {
-      const newQuantity = item.quantity - responsibleObject.quantity;
+      const newQuantity = item.remainQuantity - responsibleObject.quantity;
       if (newQuantity < 0) {
         newQuantity = 0;
         return item;
       }
       return {
         ...item,
-        quantity: newQuantity,
+        remainQuantity: newQuantity,
         responsible: [...item.responsible, responsibleObject],
       };
     }
     return item;
   });
 };
+
+const paginatedItems = (items, page, pageSize) => {
+  const firstItem = (page * pageSize) - pageSize;
+  const lastItem = firstItem + pageSize;
+  return items.slice(firstItem, lastItem);
+}
 
 //#endregion
 
@@ -162,6 +168,24 @@ app.get("/items", (req, res) => {
       return;
     }
     res.json(JSON.parse(data));
+  });
+});
+
+app.get("/items/:page", (req, res) => {
+  const page = req.params.page;
+
+  const pageSize = 10;
+
+  fs.readFile(filePathItems, "utf8", (err, data) => {
+    if (err) {
+      res.status(500).send("Error reading file");
+      return;
+    }
+
+    const teste = JSON.parse(data);
+    const items = paginatedItems(teste, page, pageSize);
+
+    res.json(items);
   });
 });
 
