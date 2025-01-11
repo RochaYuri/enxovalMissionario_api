@@ -18,7 +18,9 @@ const port = 5000;
 //#region middlewares
 
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors({
+    origin: "https://missaoelderrocha.com.br"
+}));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/users', users);
 app.use('/items', items);
