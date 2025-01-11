@@ -19,7 +19,7 @@ const port = 5000;
 
 app.use(bodyParser.json());
 app.use(cors({
-    origin: "https://missaoelderrocha.com.br"
+    origin: "https://www.missaoelderrocha.com.br"
 }));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/users', users);
