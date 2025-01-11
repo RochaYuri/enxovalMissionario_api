@@ -19,7 +19,8 @@ const port = 5000;
 
 app.use(cors({
     origin: "https://www.missaoelderrocha.com.br",
-    methods: ["GET", "POST", "PUT", "DELETE"]
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"]
 }));
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
