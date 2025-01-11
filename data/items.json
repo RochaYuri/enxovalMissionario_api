@@ -3,23 +3,27 @@
     "id": 1,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Terno",
-    "responsible": []
+    "name": "Terno",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 2,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 1,
     "totalQuantity": 10,
-    "nome": "Camisa branca - Tam 3 (manga longa)",
-    "responsible": [
+    "name": "Camisa branca - Tam 3 (manga longa)",
+    "donations": [
       {
         "name": "Inayah Simone Rocha ",
         "contact": "(11) 987448339",
@@ -35,57 +39,79 @@
         "contact": "(11) 983803291",
         "quantity": 5
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 3,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 4,
     "totalQuantity": 6,
-    "nome": "Gravata",
-    "responsible": [
+    "name": "Gravata",
+    "donations": [
       {
         "name": "Yuri de Carvalho Rocha",
         "contact": "(15) 998323267",
         "quantity": 2
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 4,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 5,
     "totalQuantity": 5,
-    "nome": "Calça Social - Nº 44",
-    "responsible": []
+    "name": "Calça Social - Nº 44",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 5,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Sapato",
-    "responsible": []
+    "name": "Sapato",
+    "donations": [
+      {
+        "name": "Jaini Jorge Pascoal Eufrazio ",
+        "contact": "(15) 988240443",
+        "quantity": 2
+      }
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 6,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 0,
     "totalQuantity": 8,
-    "nome": "Garment (conjunto) - Tam P",
-    "responsible": [
+    "name": "Garment (conjunto) - Tam P",
+    "donations": [
       {
         "name": "Yuri de Carvalho Rocha",
         "contact": "(15) 998323267",
@@ -106,91 +132,125 @@
         "contact": "(11) 987448339",
         "quantity": 6
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 7,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 0,
     "totalQuantity": 12,
-    "nome": "Meia (Cano alto)",
-    "responsible": [
+    "name": "Meia (Cano alto)",
+    "donations": [
       {
         "name": "Verônica ",
         "contact": "(15) 981739739",
         "quantity": 12
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 8,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 4,
     "totalQuantity": 4,
-    "nome": "Meia Térmica",
-    "responsible": []
+    "name": "Meia Térmica",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 9,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Cinto",
-    "responsible": []
+    "name": "Cinto",
+    "donations": [
+      {
+        "name": "adan",
+        "contact": "(15) 996443777",
+        "quantity": 2
+      }
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 10,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Suéter",
-    "responsible": []
+    "name": "Suéter",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 11,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Casaco Pesado com Forro Removível",
-    "responsible": [
+    "name": "Casaco Pesado com Forro Removível",
+    "donations": [
       {
         "name": "ELIZIR FERNANDO ROCHA",
         "contact": "(15) 996148138",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 12,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 4,
     "totalQuantity": 5,
-    "nome": "Garment Térmico (conjunto) - Tam M",
-    "responsible": [
+    "name": "Garment Térmico (conjunto) - Tam M",
+    "donations": [
       {
         "name": "ELIZIR FERNANDO ROCHA",
         "contact": "(15) 996148138",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 13,
@@ -200,14 +260,18 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Barbeador",
-    "responsible": [
+    "name": "Barbeador",
+    "donations": [
       {
         "name": "Elizir Fernando Rocha",
         "contact": "(15) 996148138",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 14,
@@ -217,8 +281,12 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Kit Graxa",
-    "responsible": []
+    "name": "Kit Graxa",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 15,
@@ -228,14 +296,18 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Kit costura",
-    "responsible": [
+    "name": "Kit costura",
+    "donations": [
       {
         "name": "Yuri de Carvalho Rocha",
         "contact": "(15) 998323267",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 16,
@@ -245,14 +317,18 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Lanterna",
-    "responsible": [
+    "name": "Lanterna",
+    "donations": [
       {
         "name": "Yuri de Carvalho Rocha",
         "contact": "(15) 998323267",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 17,
@@ -261,9 +337,13 @@
       "name": "outros"
     },
     "remainQuantity": 1,
-    "nome": "Guarda-chuva",
+    "name": "Guarda-chuva",
     "totalQuantity": 1,
-    "responsible": []
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 18,
@@ -272,15 +352,19 @@
       "name": "outros"
     },
     "remainQuantity": 0,
-    "nome": "Câmera Fotográfica",
+    "name": "Câmera Fotográfica",
     "totalQuantity": 1,
-    "responsible": [
+    "donations": [
       {
         "name": "Adan de Carvalho Rocha",
         "contact": "(15) 996443777",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 19,
@@ -290,58 +374,78 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Bolsa Tiracolo",
-    "responsible": [
+    "name": "Bolsa Tiracolo",
+    "donations": [
       {
         "name": "Adan de Carvalho Rocha",
         "contact": "(15) 996443777",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 20,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Luva",
-    "responsible": []
+    "name": "Luva",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 21,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Capa de chuva",
-    "responsible": []
+    "name": "Capa de chuva",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 22,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Gorro",
-    "responsible": []
+    "name": "Gorro",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 23,
     "category": {
       "id": 1,
-      "name": "roupas"
+      "name": "roupa"
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Cachecol",
-    "responsible": []
+    "name": "Cachecol",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 24,
@@ -351,8 +455,18 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Toalha de banho",
-    "responsible": []
+    "name": "Toalha de banho",
+    "donations": [
+      {
+        "name": "Veronica ",
+        "contact": "(15) 981739739",
+        "quantity": 1
+      }
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 25,
@@ -362,8 +476,12 @@
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Lençol de cama",
-    "responsible": []
+    "name": "Lençol de cama",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 26,
@@ -373,8 +491,12 @@
     },
     "remainQuantity": 2,
     "totalQuantity": 2,
-    "nome": "Fronha",
-    "responsible": []
+    "name": "Fronha",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 27,
@@ -384,14 +506,18 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Quádrupla",
-    "responsible": [
+    "name": "Quádrupla",
+    "donations": [
       {
         "name": "Fernando Rocha",
         "contact": "(15) 996148138",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 28,
@@ -401,8 +527,12 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Mala (1 grande e 1 média)",
-    "responsible": []
+    "name": "Mala (1 grande e 1 média)",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 29,
@@ -412,8 +542,12 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Pregar Meu Evangelho",
-    "responsible": []
+    "name": "Pregar Meu Evangelho",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 30,
@@ -423,8 +557,12 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Kit estudo",
-    "responsible": []
+    "name": "Kit estudo",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 31,
@@ -434,8 +572,12 @@
     },
     "remainQuantity": 1,
     "totalQuantity": 1,
-    "nome": "Diário",
-    "responsible": []
+    "name": "Diário",
+    "donations": [],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
     "id": 32,
@@ -445,13 +587,17 @@
     },
     "remainQuantity": 0,
     "totalQuantity": 1,
-    "nome": "Roupa batismal (roupa social branca)",
-    "responsible": [
+    "name": "Roupa batismal (roupa social branca)",
+    "donations": [
       {
         "name": "Helena Glozer",
         "contact": "(15) 983123550",
         "quantity": 1
       }
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   }
 ]

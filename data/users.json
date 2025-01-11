@@ -1,28 +1,46 @@
 [
   {
+    "id": 1,
     "name": "YURI DE CARVALHO ROCHA",
     "username": "rochayuri",
     "password": "Lkjd7f4z",
+    "email": "rochayuri.dev@gmail.com",
     "roles": [
       "admin",
       "missionary"
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
+    "id": 2,
     "name": "ADAN DE CARVALHO ROCHA",
     "username": "adanrocha",
     "password": "12345",
+    "email": "adan.carvalho.rocha@gmail.com",
     "roles": [
       "missionary"
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   },
   {
+    "id": 3,
     "name": "ELIZIR ROGÉRIO ROCHA",
     "username": "elizirrogeriorocha",
     "password": "12345",
+    "email": "email@gmail.com",
     "roles": [
       "admin",
       "missionary"
-    ]
+    ],
+    "createdAt": "01/01/2025, 19:23:20",
+    "createdBy": "rochayuri",
+    "updatedAt": "",
+    "updatedBy": ""
   }
 ]
