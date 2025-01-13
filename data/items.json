@@ -72,10 +72,26 @@
       "id": 1,
       "name": "roupa"
     },
-    "remainQuantity": 5,
+    "remainQuantity": 0,
     "totalQuantity": 5,
     "name": "Calça Social - Nº 44",
-    "donations": [],
+    "donations": [
+      {
+        "name": "Thales Tota ",
+        "contact": "(11) 989701480",
+        "quantity": 2
+      },
+      {
+        "name": "Thales Tota ",
+        "contact": "(11) 989701480",
+        "quantity": 2
+      },
+      {
+        "name": "Thales Tota ",
+        "contact": "(11) 989701480",
+        "quantity": 2
+      }
+    ],
     "createdAt": "01/01/2025, 19:23:20",
     "createdBy": "rochayuri",
     "updatedAt": "",
@@ -87,12 +103,17 @@
       "id": 1,
       "name": "roupa"
     },
-    "remainQuantity": 2,
+    "remainQuantity": 0,
     "totalQuantity": 2,
     "name": "Sapato",
     "donations": [
       {
         "name": "Jaini Jorge Pascoal Eufrazio ",
+        "contact": "(15) 988240443",
+        "quantity": 2
+      },
+      {
+        "name": "Jaini Jorge Pascoal Eufrazio",
         "contact": "(15) 988240443",
         "quantity": 2
       }
@@ -180,12 +201,17 @@
       "id": 1,
       "name": "roupa"
     },
-    "remainQuantity": 2,
+    "remainQuantity": 0,
     "totalQuantity": 2,
     "name": "Cinto",
     "donations": [
       {
         "name": "adan",
+        "contact": "(15) 996443777",
+        "quantity": 2
+      },
+      {
+        "name": "adan r",
         "contact": "(15) 996443777",
         "quantity": 2
       }
@@ -198,17 +224,17 @@
   {
     "id": 10,
     "category": {
-      "id": 1,
+      "id": "1",
       "name": "roupa"
     },
-    "remainQuantity": 2,
-    "totalQuantity": 2,
-    "name": "Suéter",
+    "remainQuantity": "2",
+    "totalQuantity": "2",
+    "name": "Suéter gola em V",
     "donations": [],
     "createdAt": "01/01/2025, 19:23:20",
     "createdBy": "rochayuri",
-    "updatedAt": "",
-    "updatedBy": ""
+    "updatedAt": "13/01/2025, 11:38:35",
+    "updatedBy": "adanrocha"
   },
   {
     "id": 11,
@@ -393,10 +419,16 @@
       "id": 1,
       "name": "roupa"
     },
-    "remainQuantity": 2,
+    "remainQuantity": 0,
     "totalQuantity": 2,
     "name": "Luva",
-    "donations": [],
+    "donations": [
+      {
+        "name": "Mahoni Rocha ",
+        "contact": "(11) 917742602",
+        "quantity": 2
+      }
+    ],
     "createdAt": "01/01/2025, 19:23:20",
     "createdBy": "rochayuri",
     "updatedAt": "",
@@ -423,25 +455,16 @@
       "id": 1,
       "name": "roupa"
     },
-    "remainQuantity": 2,
+    "remainQuantity": 0,
     "totalQuantity": 2,
     "name": "Gorro",
-    "donations": [],
-    "createdAt": "01/01/2025, 19:23:20",
-    "createdBy": "rochayuri",
-    "updatedAt": "",
-    "updatedBy": ""
-  },
-  {
-    "id": 23,
-    "category": {
-      "id": 1,
-      "name": "roupa"
-    },
-    "remainQuantity": 2,
-    "totalQuantity": 2,
-    "name": "Cachecol",
-    "donations": [],
+    "donations": [
+      {
+        "name": "Mahoni Rocha ",
+        "contact": "(11) 917742602",
+        "quantity": 2
+      }
+    ],
     "createdAt": "01/01/2025, 19:23:20",
     "createdBy": "rochayuri",
     "updatedAt": "",
@@ -453,7 +476,7 @@
       "id": 4,
       "name": "cama e banho"
     },
-    "remainQuantity": 1,
+    "remainQuantity": 0,
     "totalQuantity": 1,
     "name": "Toalha de banho",
     "donations": [
@@ -461,6 +484,16 @@
         "name": "Veronica ",
         "contact": "(15) 981739739",
         "quantity": 1
+      },
+      {
+        "name": "Verônica ",
+        "contact": "(15) 981739739",
+        "quantity": 2
+      },
+      {
+        "name": "Verônica ",
+        "contact": "(15) 981739739",
+        "quantity": 2
       }
     ],
     "createdAt": "01/01/2025, 19:23:20",
