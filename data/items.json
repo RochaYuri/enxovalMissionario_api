@@ -111,11 +111,6 @@
         "name": "Jaini Jorge Pascoal Eufrazio ",
         "contact": "(15) 988240443",
         "quantity": 2
-      },
-      {
-        "name": "Jaini Jorge Pascoal Eufrazio",
-        "contact": "(15) 988240443",
-        "quantity": 2
       }
     ],
     "createdAt": "01/01/2025, 19:23:20",
@@ -224,7 +219,7 @@
   {
     "id": 10,
     "category": {
-      "id": "1",
+      "id": 1,
       "name": "roupa"
     },
     "remainQuantity": "2",
